@@ -1,0 +1,6 @@
+main: chickGUI.main
+name: ChickGUI
+version: 0.1
+
+commands:
+  GUI:
